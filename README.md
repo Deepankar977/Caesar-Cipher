@@ -15,7 +15,7 @@ This Python project demonstrates encryption and decryption techniques using a Ca
 ## Getting Started
 
 ### Prerequisites
-You need to have Python 3.x installed on your local machine.
+You need to have Python 3.12 installed on your local machine.
 
 - [Download Python](https://www.python.org/downloads/)
 
