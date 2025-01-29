@@ -1,7 +1,7 @@
 # Caesar-Cipher
 A Python script implementing the Caesar Cipher encryption and decryption technique, allowing users to securely encrypt and decrypt messages with a customizable shift key. It supports text, punctuation, and space preservation.
 
-# Caesar Cipher Encryption and Decryption Script
+# Encryption and Decryption Script
 
 ## Overview
 This Python project demonstrates encryption and decryption techniques using a Caesar Cipher-like method. The script allows users to encrypt and decrypt messages using a specified shift value. It handles both text and punctuation characters, ensuring that non-alphabetic characters remain intact during the encryption and decryption process.
